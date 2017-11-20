@@ -51,6 +51,7 @@ Building software in large enterprise (big company) presents unique challenges. 
 
 ## New things
 * `Docker` is getting common these days and very useful too. Big companies are often slow in adopting it. But yours shouldn't. It would help to simplify devops.
-* Move to cloud. But don't stop at moving your infrastructure apple to apple from the legacy data center to cloud, what's the benefit then? Almost none. Instead of that setup common `Kubernetes` cluster that could be used across the applications. Consider use "serverless" / "cloud function" for small used cases.
+* Move to cloud. But don't stop at moving your infrastructure apple to apple from the legacy data center to cloud, what's the benefit then? Almost none. Instead of that setup common `Kubernetes` cluster that could be used across the applications. 
+* Consider use "serverless" / "cloud function" for small used cases.
 * `GraphAPI`. This is the new generation of real-time integration. Its benefit is more obvious in a big company.
 

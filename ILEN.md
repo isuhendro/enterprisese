@@ -9,3 +9,6 @@ select * from contact
 
 ## 1.2
 asdfasdfadsfd
+
+- [ ] todo 1
+- [ ] todo 2
